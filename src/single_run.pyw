@@ -6,11 +6,11 @@ import threading
 import os
 import time
 
-# ---------------------- CONFIG ----------------------
+
 HOST = '<IP>'  # ← Yahan apni IP ya DDNS daalo
 PORT = 9999
-SEND_INTERVAL = 60  # seconds
-# ----------------------------------------------------
+SEND_INTERVAL = 60 
+
 
 # 🔐 Step 1: Hardcoded key (from your secret.key file)
 key = b'nA3f3UQUzyK5j93ZJx6xkyX4tfW9NnBq_NKcyZcU9-g='
