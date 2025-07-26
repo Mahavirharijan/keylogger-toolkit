@@ -48,7 +48,6 @@ Required packages:
 **Option 1: Run from Python source**
 
 ```
-Just double-click:
 src/receiver_gui.py
 ```
 
