@@ -1,5 +1,5 @@
 # 🧠 Keylogger Control Panel GUI
-#This project is a proof-of-concept (PoC) cybersecurity tool developed using Python. The keylogger is designed to capture keystrokes, encrypt the collected data, and simulate sending it to a remote server, ensuring safe handling of sensitive information for educational and testing purposes only.
+
 This is a Python-based GUI tool that allows you to:
 
 * Generate a keylogger EXE file that silently logs keystrokes and sends encrypted logs to your system
